@@ -44,4 +44,12 @@ ApplicationWindow {
         height: 200
         color: "red"
     }
+
+    Rectangle {
+        id: rec1
+        width: 200
+        height: 200
+        x: 210
+        color: "yellow"
+    }
 }
