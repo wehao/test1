@@ -37,4 +37,11 @@ ApplicationWindow {
             messageDialog.open();
         }
     }
+
+    Rectangle {
+        id: rec
+        width: 200
+        height: 200
+        color: "red"
+    }
 }
